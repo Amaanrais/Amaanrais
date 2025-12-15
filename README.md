@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amaan Rais</h1>
 <h3 align="center">Web Developer, Designer and a Cybersec enthusiast</h3>
 
-- 📫 How to reach me **amaanrais112@gmail.com**
+📫 Reach out to me at **amaanrais112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
