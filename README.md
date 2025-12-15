@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amaan Rais</h1>
 <h3 align="center">Web Developer, Designer and a Cybersec enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaanrais" alt="amaanrais" /></a> </p>
-
 - 📫 How to reach me **amaanrais112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
