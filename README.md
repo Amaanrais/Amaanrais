@@ -16,17 +16,16 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amaanrais&show_icons=true&locale=en" alt="Amaanrais" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amaanrais&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amaanrais&" alt="Amaanrais" />
+<img src="https://streak-stats.demolab.com?user=Amaanrais&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amaanrais&show_icons=true&locale=en&layout=compact" alt="Amaanrais" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaanrais&layout=compact&theme=tokyonight" />
 </p>
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Amaanrais" />
 </p>
