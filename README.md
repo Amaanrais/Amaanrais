@@ -18,3 +18,7 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Amaanrais&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Amaanrais&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
