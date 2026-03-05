@@ -16,13 +16,16 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amaanrais&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amaanrais&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Amaanrais&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaanrais&layout=compact&theme=tokyonight" />
+</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaanrais&layout=compact&theme=tokyonight" />
 </p>
